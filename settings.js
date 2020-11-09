@@ -1,11 +1,11 @@
 const APIServerPort = 3000;
 const APIUrl = 'http://localhost:4200'; 
 const database = {
-  host: '103.21.59.27',
+  host: 'sql103.epizy.com',
   port: 3306,
-  user: 'kobitara_todoapp',
-  password: 'gopi123456',
-  database: 'kobitara_to_do_app'
+  user: 'epiz_27159309',
+  password: 'k46YuvPMK2vcGE',
+  database: 'epiz_27159309_to_do_app'
 };
 
 module.exports = {
