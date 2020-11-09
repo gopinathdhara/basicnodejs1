@@ -1,7 +1,7 @@
 const APIServerPort = 3000;
 const APIUrl = 'http://localhost:4200'; 
 const database = {
-  host: 'localhost',
+  host: '103.21.59.27',
   port: 3306,
   user: 'kobitara_todoapp',
   password: 'gopi123456',
