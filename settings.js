@@ -3,9 +3,9 @@ const APIUrl = 'http://localhost:4200';
 const database = {
   host: 'localhost',
   port: 3306,
-  user: 'root',
-  password: '',
-  database: 'todonotes'
+  user: 'kobitara_todoapp',
+  password: 'gopi123456',
+  database: 'kobitara_to_do_app'
 };
 
 module.exports = {
