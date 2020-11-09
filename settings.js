@@ -1,11 +1,11 @@
 const APIServerPort = 3000;
 const APIUrl = 'http://localhost:4200'; 
 const database = {
-  host: 'sql103.epizy.com',
+  host: 'sql12.freemysqlhosting.net',
   port: 3306,
-  user: 'epiz_27159309',
-  password: 'k46YuvPMK2vcGE',
-  database: 'epiz_27159309_to_do_app'
+  user: 'sql12375626',
+  password: 'PRgtq6sySz',
+  database: 'sql12375626'
 };
 
 module.exports = {
