@@ -1,5 +1,7 @@
 const APIServerPort = 3000;
-const APIUrl = 'http://localhost:4200'; 
+//const APIUrl = 'http://localhost:4200'; 
+const APIUrl = 'http://todoapp.6te.net';
+
 const database = {
   host: 'sql12.freemysqlhosting.net',
   port: 3306,
